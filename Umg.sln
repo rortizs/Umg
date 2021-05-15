@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umg.Entidades", "Umg.Entidades\Umg.Entidades.csproj", "{0EF89A7D-7860-477A-9B5B-CDEB501C3E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umg.Datos", "Umg.Datos\Umg.Datos.csproj", "{641A1346-CDEF-4D7A-856B-18E46E7B020A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umg.Web", "Umg.Web\Umg.Web.csproj", "{795DA406-5E4F-49F8-A42A-08CE43DC2D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF89A7D-7860-477A-9B5B-CDEB501C3E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF89A7D-7860-477A-9B5B-CDEB501C3E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF89A7D-7860-477A-9B5B-CDEB501C3E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF89A7D-7860-477A-9B5B-CDEB501C3E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641A1346-CDEF-4D7A-856B-18E46E7B020A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641A1346-CDEF-4D7A-856B-18E46E7B020A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641A1346-CDEF-4D7A-856B-18E46E7B020A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641A1346-CDEF-4D7A-856B-18E46E7B020A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795DA406-5E4F-49F8-A42A-08CE43DC2D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795DA406-5E4F-49F8-A42A-08CE43DC2D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795DA406-5E4F-49F8-A42A-08CE43DC2D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795DA406-5E4F-49F8-A42A-08CE43DC2D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1A1116-070A-4105-8703-729482060970}
+	EndGlobalSection
+EndGlobal
